@@ -9,4 +9,5 @@ nav li{
 nav a{
   text-transform: uppercase ;
   color: #ff0000;
+  font-weight: bold;
 }
