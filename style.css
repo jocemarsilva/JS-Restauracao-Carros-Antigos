@@ -35,6 +35,7 @@ nav a{
 
 .banner{
   width: 100%;
+  padding-bottom: 20px;
 }
 
 .principal{
@@ -47,6 +48,7 @@ nav a{
   font-size: 2em;
   margin: 0 0 1em;
   clear: left;
+  padding-bottom: 14px;
 }
 
 .Restaura{
