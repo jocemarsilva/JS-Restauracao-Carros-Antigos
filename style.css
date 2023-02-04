@@ -62,3 +62,12 @@ nav a{
 .img-diferenciais{
   width: 60%;
 }
+
+.mapa{
+  padding: 3em o ;
+}
+
+.mapa p {
+  margin: 0px 0px 2em;
+  text-align: center;
+}
