@@ -81,6 +81,11 @@ nav a{
   vertical-align: top;
 }
 
+.itens{
+  line-height: 2em;
+
+}
+
 .img-diferenciais{
   width: 60%;
 }
