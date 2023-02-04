@@ -3,19 +3,11 @@ body{
 font-family: 'Indie Flower', cursive;
 font-family: 'Noto Sans NKo', sans-serif;
 font-family: 'Ubuntu', sans-serif;
-
-
 }
 
 header{
   background-color: black;
   padding: 20px;
-}
-
-.container{
-  position: relative;
-  width: 940px;
-  margin: 0 auto;
 }
 
 nav{
@@ -35,28 +27,40 @@ nav a{
   font-size: 23px;
   text-decoration: none;
 }
+.container{
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
 
 .banner{
   width: 100%;
 }
 
-.titulo-principal {
+.principal{
+  margin: 0px 0px 2em ;
+  text-align: center;
+}
+
+.titulo-principal{
   text-align: center;
   font-size: 2em;
   margin: 0 0 1em;
   clear: left;
-
-}
-
-
-.principal p{
-  margin: 0 0 1em;
 }
 
 .Restaura{
   width: 300px;
   float: left;
   margin: 0 20px 0 20px;
+}
+
+.mapa{
+  padding: 3em 0px ;
+}
+
+.principal p{
+  margin: 0 0 1em;
 }
 
 .diferenciais{
@@ -72,10 +76,6 @@ nav a{
 
 .img-diferenciais{
   width: 60%;
-}
-
-.mapa{
-  padding: 3em 0px ;
 }
 
 p{
