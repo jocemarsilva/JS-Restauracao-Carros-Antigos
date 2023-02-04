@@ -67,6 +67,7 @@ nav a{
 .lista-diferenciais{
   width: 40%;
   display: inline-block;
+  vertical-align: top;
 }
 
 .img-diferenciais{
