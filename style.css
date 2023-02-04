@@ -58,7 +58,7 @@ nav a{
 }
 
 .mapa{
-  padding: 3em 0px ;
+  padding: 3em 0 ;
 }
 
 .principal p{
@@ -68,6 +68,8 @@ nav a{
 .diferenciais{
   width: 640px;
   margin: 20px auto;
+  padding: 3em 0 ;
+  
 }
 
 .lista-diferenciais{
