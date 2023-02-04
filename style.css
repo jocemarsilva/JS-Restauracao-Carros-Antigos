@@ -42,8 +42,9 @@ nav a{
   margin: 0 0 1em;
 }
 
-.restaura{
-  width: 150px;
+.Restaura{
+  width: 250px;
+  float: left;
 }
 
 .img-diferenciais{
