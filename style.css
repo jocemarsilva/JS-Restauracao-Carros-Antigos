@@ -105,7 +105,9 @@ nav a{
   text-transform: uppercase;
 
 }
-
+.itens:before{
+  content: "✪";
+}
   .img-diferenciais{
   width: 60%;
 }
