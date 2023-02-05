@@ -164,7 +164,9 @@ section > h3{
   .lista-diferenciais, .img-diferenciais{
     width: 100%;
   }
+}
 
-
-
+footer{
+  background-color: black;
+  text-align: center;
 }
