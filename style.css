@@ -1,0 +1,29 @@
+body{
+  font-family: 'Anton', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Noto Sans NKo', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+  background-color: black;
+  padding: 20px;
+}
+
+nav{
+  position: absolute;
+  top: 250px;
+  right: 0px;
+}
+nav li{
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+nav a{
+  text-transform: uppercase ;
+  color: #ff0000;
+  font-weight: bold;
+  font-size: 23px;
+  text-decoration: none;
+}
