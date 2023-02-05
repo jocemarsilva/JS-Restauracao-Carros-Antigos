@@ -134,3 +134,7 @@ p:after{
 img + p{
   background-color: aliceblue;
 }
+
+section > h3{
+  background-color: antiquewhite;
+}
