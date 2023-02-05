@@ -55,6 +55,7 @@ nav a{
   width: 300px;
   float: left;
   margin: 0 20px 0 20px;
+  box-shadow: 10px 10px 10px;
 }
 
 .mapa{
