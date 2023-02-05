@@ -114,3 +114,8 @@ p{
   margin: 0px 0px 2em ;
   text-align: center;
 }
+
+p:first-line{
+  font-style: italic;
+  font-weight: bold;
+}
