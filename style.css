@@ -101,6 +101,11 @@ nav a{
 
 }
 
+.itens:first-letter{
+  text-transform: uppercase;
+
+}
+
   .img-diferenciais{
   width: 60%;
 }
