@@ -27,3 +27,33 @@ nav a{
   font-size: 23px;
   text-decoration: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer p:not(#copyright) {
+  background-color: #000000;
+}
+
+footer{
+  background-color: black;
+  text-align: center;
+  padding: 40px 0 ;
+}
+
+
+.copyright{
+  color: #ffffff;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
