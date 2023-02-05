@@ -94,9 +94,14 @@ nav a{
 .itens:last-child{
   font-style: oblique;
   font-weight: bold;
+}
+
+.itens:nth-last-child(3){
+  font-size: 20px;
 
 }
-.img-diferenciais{
+
+  .img-diferenciais{
   width: 60%;
 }
 
