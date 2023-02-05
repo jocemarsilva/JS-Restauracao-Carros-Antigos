@@ -119,3 +119,11 @@ p:first-line{
   font-style: italic;
   font-weight: bold;
 }
+
+p:before{
+  content: "*";
+}
+
+p:after{
+  content: "*"
+}
