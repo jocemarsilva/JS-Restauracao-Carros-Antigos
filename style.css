@@ -142,6 +142,9 @@ img + p{
   background-color: aliceblue;
 }
 
+section > h2{
+  text-shadow: 2px 2px red;
+}
 section > h3{
   background-color: antiquewhite;
 }
