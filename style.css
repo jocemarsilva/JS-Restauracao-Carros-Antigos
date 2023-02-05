@@ -110,6 +110,8 @@ nav a{
 }
   .img-diferenciais{
   width: 60%;
+  opacity: 1;
+  transition: 800ms;
 }
 
 p{
