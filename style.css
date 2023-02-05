@@ -89,10 +89,13 @@ nav a{
 .itens:first-child {
   font-style: italic;
   font-weight: bold;
-
-  
 }
 
+.itens:last-child{
+  font-style: oblique;
+  font-weight: bold;
+
+}
 .img-diferenciais{
   width: 60%;
 }
