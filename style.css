@@ -60,6 +60,8 @@ form input{
   font-size: 19px;
   border: none;
   border-radius: 5px;
+  transition: 2s;
+  
   
 }
 
