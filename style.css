@@ -130,3 +130,7 @@ p:before{
 p:after{
   content: "*"
 }
+
+img + p{
+  background-color: aliceblue;
+}
