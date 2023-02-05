@@ -149,8 +149,22 @@ section > h3{
   background-color: antiquewhite;
 }
 
-@media screen and ( max=width:480px){
-  .container{
+@media screen and (max=width:480px){
+  .container, .principal, .diferenciais, .mapa{
     width: auto;
   }
+  h1{
+    text-align: center;
+  }
+
+  nav{
+    position: static;
+  }
+
+  .lista-diferenciais, .img-diferenciais{
+    width: 100%;
+  }
+
+
+
 }
