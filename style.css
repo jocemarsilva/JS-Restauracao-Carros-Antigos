@@ -55,7 +55,9 @@ form input{
   width: 40%;
   padding: 15px 0;
   background-color: #ff0000;
-  color:#ffffff
+  color:#ffffff;
+  font-weight: bold;
+  
 }
 
 
