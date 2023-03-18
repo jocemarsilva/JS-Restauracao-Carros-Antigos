@@ -1,12 +1,10 @@
 
 
-
-# Layout do Site JS Restauração de Carros Antigos
+## Layout do Site JS Restauração de Carros Antigos
 
 
 ![JS Oficina - Google Chrome 2023-02-06 17-38-56](https://user-images.githubusercontent.com/121300540/217090225-03611e6e-9a88-40ac-bdf3-a73effa940b0.gif)
 
- 
 
 # Sobre o projeto
 
